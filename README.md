@@ -10,4 +10,4 @@ This project is an example of how a Progressive Web Application can be structure
 
 ## Install
 
--run `npm i && npm start` for both client and server side to start development server.
+- run `npm i && npm start` for both client and server side to start development server.
